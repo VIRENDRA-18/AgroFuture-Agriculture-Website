@@ -7,7 +7,7 @@ import Footer from './components/Footer/Footer'
 import Hero from './components/Hero/Hero'
 import Navbar from './components/Navbar/Navbar'
 import Products from './components/Products/Products'
-import Services from './components/Services/Services.JSX'
+import Services from './components/Services/Services.jsx'
 import Tools from './components/Tools/Tools'
 import SoilScanner from './components/SoilScanner/SoilScanner';
 import Weather from './components/Weather/Weather';
